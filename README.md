@@ -109,6 +109,3 @@ This project is designed to demonstrate:
 * Trade-offs between **accuracy, latency, and cost**
 * Production-ready thinking (API + deployment)
 
--
-
-🚧 Work in progress — currently in setup and data exploration phase.
